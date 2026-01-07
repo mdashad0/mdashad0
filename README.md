@@ -1,3 +1,18 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Ashad;Full+Stack+Developer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-ashad-365686359"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/omkarhole"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:omkarhole314@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=omkarhole&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Ashad</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
