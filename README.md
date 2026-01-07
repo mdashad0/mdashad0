@@ -13,26 +13,19 @@
   <img src="https://komarev.com/ghpvc/?username=mdashad0&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Ashad</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdashad0" alt="mdashad0" /></a> </p>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [My_Portfolio](https://portfolio-1-seven-omega.vercel.app/)
-
-- 🌱 I’m currently learning **FullStack**
-
+- 🔭 **Currently Building** — Alumni Management System (Full-Stack MERN)
+- 📖 **Learning** — System Design, Advanced TypeScript, Open Source Best Practices
+- 🎯 **Goal for 2026** — TO Complete Full DSA in JAVA
 - 👨‍💻 All of my projects are available at [https://github.com/mdashad0](https://github.com/mdashad0)
+- 📄 **Resume** — [View Resume](link)
+- 📫 **Contact** — asadanwarr0@gmail.com
 
-- 💬 Ask me about **bootstrap,talwind css and little more****
+---
 
-- 📫 How to reach me **asadanwarr0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ashad.0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashad.0x" height="30" width="40" /></a>
-<a href="https://instagram.com/ashad.ox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashad.ox" height="30" width="40" /></a>
-</p>
 
 ## 🛠️ Languages & Tools
 
@@ -57,6 +50,3 @@
 ---
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdashad0&show_icons=true&locale=en" alt="mdashad0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdashad0&" alt="mdashad0" /></p>
