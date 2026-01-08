@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdashad0&theme=radical" alt="Md Ashad0  GitHub Streak Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdashad0&theme=radical" alt="mdashad0  GitHub Streak Stats" />
 </p>
 
 ---
