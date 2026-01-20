@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
@@ -45,12 +45,91 @@
 
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdashad0&theme=radical" alt="Md Ashad GitHub Streak Stats" />
-</p>
+</p> -->
 
 <!-- <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdashad0&theme=radical" alt="Md Ashad GitHub Streak Stats" />
 </p> -->
 
 ---
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding gif"/>
+</div>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+👋,+I'm+Md+Ashad;Full+Stack+Developer+|+Open+Source+Contributor" 
+    alt="Typing intro"
+  />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-ashad-365686359">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mdashad0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:asadanwarr0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mdashad0&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building **Alumni Management System (MERN Stack)**
+- 🌱 Learning **System Design, Advanced TypeScript & Open Source Practices**
+- 🎯 **2026 Goal** — Complete **Full DSA in Java**
+- 👨‍💻 Projects: https://github.com/mdashad0
+- 📫 Contact: **asadanwarr0@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,git,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mdashad0&show_icons=true&theme=radical&count_private=true" 
+    height="165"
+    alt="GitHub stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdashad0&layout=compact&theme=radical" 
+    height="165"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=mdashad0&theme=radical" 
+    alt="GitHub streak"
+  />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Building scalable MERN applications
+- Improving DSA & problem-solving
+- Writing clean, maintainable code
+- Contributing to Open Source
+
+⭐ If you like my work, consider starring my repositories!
+
+
+
 
 
