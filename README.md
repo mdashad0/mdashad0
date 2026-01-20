@@ -42,11 +42,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mdashad0&show_icons=true&count_private=true&theme=radical" alt="Md Ashad GitHub Stats" />
 
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdashad0&theme=radical&hide_border=true" />
-</p>
-
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdashad0&theme=radical" alt="Md Ashad GitHub Streak Stats" />
 </p>
