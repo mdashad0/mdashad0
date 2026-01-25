@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me.
 
 - 🔭 **Currently Building** — Alumni Management System (Full-Stack MERN)
 - 📖 **Learning** — System Design, Advanced TypeScript, Open Source Best Practices
