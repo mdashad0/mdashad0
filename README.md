@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,git,postman" />
 </p>
 
-----
+---
 ## 📊 GitHub Stats
 
 <p align="center" >
