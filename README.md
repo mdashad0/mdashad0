@@ -40,7 +40,8 @@
   
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdashad0&layout=compact&theme=radical" alt="Md Ashad Top Languages"    width="354"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdashad0&show_icons=true&count_private=true&theme=radical" alt="Md Ashad GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mdashad0&show_icons=true&count_private=true&theme=radical" alt="Md Ashad GitHub Stats" /> -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mdashad0&show_icons=true&theme=radical" alt="Md Ashad GitHub Stats" />
 
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdashad0&theme=radical" alt="Md Ashad GitHub Streak Stats" />
