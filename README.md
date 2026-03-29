@@ -46,3 +46,40 @@
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdashad0&theme=radical" alt="Md Ashad GitHub Streak Stats" />
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-trophies.vercel.app/?username=mdashad0">
+</p>
+
+##  GitHub Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdashad0&bg_color=000000&color=d2d6db&line=345ab2&point=32b388&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<p align="center">
+<img src="https://ssr-contributions-svg.vercel.app/_/mdashad0?chart=3dbar&gap=0.6&scale=2&light=30&flatten=0&animation=mess&animation_duration=6&format=svg&weeks=50&theme=purple&widget_size=small&dark=true" alt="Snake animation" />
+
+###
+</p>
+
+---
+
+<div align="center">
+  
+### 💬 *"First, solve the problem. Then, write the code."* – John Johnson
+
+---
+<p>
+  <img src="https://img.shields.io/badge/Open_to_Collaborate-6366F1?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apertre 3.0-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+**⭐ If you like my work, feel free to star a repo or reach out for collaboration.**
+
+</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
