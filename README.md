@@ -71,7 +71,7 @@
   
 ### 💬 *"First, solve the problem. Then, write the code."* – John Johnson
 
----
+----
 <p>
   <img src="https://img.shields.io/badge/Open_to_Collaborate-6366F1?style=for-the-badge&logo=handshake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apertre 3.0-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
